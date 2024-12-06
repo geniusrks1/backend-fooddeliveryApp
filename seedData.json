@@ -1,0 +1,101 @@
+[
+    {
+      "name": "Classic Burger",
+      "image": "classic-burger.jpg",
+      "price": 150,
+      "category": "Burger",
+      "description": "A timeless burger with fresh lettuce, tomato, and beef patty.",
+      "ingredients": ["Lettuce", "Tomato", "Beef Patty", "Bun", "Cheese"]
+    },
+    {
+      "name": "Cheese Lover's Burger",
+      "image": "cheese-burger.jpg",
+      "price": 180,
+      "category": "Burger",
+      "description": "Loaded with cheddar and mozzarella cheese.",
+      "ingredients": ["Cheddar", "Mozzarella", "Beef Patty", "Bun"]
+    },
+    {
+      "name": "Veggie Delight Burger",
+      "image": "veggie-burger.jpg",
+      "price": 130,
+      "category": "Burger",
+      "description": "A healthy option with a grilled veggie patty.",
+      "ingredients": ["Veggie Patty", "Lettuce", "Tomato", "Bun"]
+    },
+    {
+      "name": "Spicy Fiesta Burger",
+      "image": "spicy-burger.jpg",
+      "price": 160,
+      "category": "Burger",
+      "description": "Kick it up a notch with jalapeños and spicy mayo.",
+      "ingredients": ["Jalapeños", "Spicy Mayo", "Beef Patty", "Bun"]
+    },
+    {
+      "name": "Classic Fries",
+      "image": "classic-fries.jpg",
+      "price": 80,
+      "category": "Fries",
+      "description": "Crispy and golden French fries.",
+      "ingredients": ["Potatoes", "Salt", "Oil"]
+    },
+    {
+      "name": "Cheesy Fries",
+      "image": "cheesy-fries.jpg",
+      "price": 100,
+      "category": "Fries",
+      "description": "Golden fries topped with melted cheese.",
+      "ingredients": ["Potatoes", "Cheese", "Salt", "Oil"]
+    },
+    {
+      "name": "Masala Fries",
+      "image": "masala-fries.jpg",
+      "price": 90,
+      "category": "Fries",
+      "description": "Fries with a spicy Indian twist.",
+      "ingredients": ["Potatoes", "Masala Seasoning", "Salt", "Oil"]
+    },
+    {
+      "name": "Garlic Fries",
+      "image": "garlic-fries.jpg",
+      "price": 110,
+      "category": "Fries",
+      "description": "Fries seasoned with garlic and herbs.",
+      "ingredients": ["Potatoes", "Garlic", "Herbs", "Salt", "Oil"]
+    },
+    {
+      "name": "Coke",
+      "image": "coke.jpg",
+      "price": 50,
+      "category": "Cold Drinks",
+      "description": "Refreshing Coca-Cola.",
+      "ingredients": ["Carbonated Water", "Sugar", "Flavoring"]
+    },
+    {
+      "name": "Pepsi",
+      "image": "pepsi.jpg",
+      "price": 50,
+      "category": "Cold Drinks",
+      "description": "Chilled Pepsi drink.",
+      "ingredients": ["Carbonated Water", "Sugar", "Flavoring"]
+    },
+    {
+      "name": "Sprite",
+      "image": "sprite.jpg",
+      "price": 50,
+      "category": "Cold Drinks",
+      "description": "Lemon-lime flavored soda.",
+      "ingredients": ["Carbonated Water", "Sugar", "Citrus Flavoring"]
+    },
+    {
+      "name": "Fanta",
+      "image": "fanta.jpg",
+      "price": 50,
+      "category": "Cold Drinks",
+      "description": "Orange-flavored soft drink.",
+      "ingredients": ["Carbonated Water", "Sugar", "Orange Flavoring"]
+    }
+  ]
+  
+
+  
