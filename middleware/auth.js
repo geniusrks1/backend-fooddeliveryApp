@@ -7,7 +7,7 @@ const protectedMiddleware = async (req, res, next) => {
   try {
     const { authorization } = req.headers;
 
-    // Check if authorization header is present
+    console.log(authorization);
     if (!authorization) {
       return res.status(401).json({
         status: 'error',
@@ -15,9 +15,11 @@ const protectedMiddleware = async (req, res, next) => {
       });
     }
 
-    // Extract token from Bearer token
-    const token = authorization.split(' ')[1];
+  
+    // const temptoken = authorization.split(' ')[1];
+    const token = authorization;
     if (!token) {
+      console.log(token);
       return res.status(401).json({
         status: 'error',
         message: 'Invalid token format. Please login to access this route.',
